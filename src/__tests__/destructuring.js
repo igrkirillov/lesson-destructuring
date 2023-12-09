@@ -54,4 +54,4 @@ describe("destructuring module", () => {
   test ("null character", () => {
     expect(getAttacks(null)).toEqual([]);
   });
-})
+});
